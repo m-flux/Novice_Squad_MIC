@@ -1,0 +1,9 @@
+Company_ID,Name,Budget_Lakhs,Interested_Domains,SIS_Score
+C001,Tata Consultancy Services,90.0,"Education, Health, Rural Development",1370
+C002,Infosys Foundation,200.0,"Education, Technology, Environment",0
+C003,Reliance Industries,500.0,"Health, Infrastructure, Rural Development",0
+C004,Wipro Limited,110.0,"Education, Environment, Sanitation",120
+C005,Adani Foundation,300.0,"Health, Infrastructure, Education",0
+C006,HCL Technologies,90.0,"Technology, Education, Women Empowerment",0
+C007,Mahindra Group,180.0,"Rural Development, Agriculture, Education",0
+C008,Bajaj Finance,75.0,"Health, Sanitation, Women Empowerment",0

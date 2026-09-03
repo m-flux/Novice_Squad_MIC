@@ -1,0 +1,9 @@
+Proposal_ID,NGO_ID,Target_Company_ID,Title,Description,Domain,Ask_Lakhs,Region,Is_Collaborative,Status
+P25A71ED0,NGO45F2BC68,C001,Rural Health Camp,Health camp in Bihar,Health,50.0,Bihar,False,Accepted
+P3C627FF2,NGOE69FE09D,C001,x,xyz,Education,10.0,Tamil Nadu,True,Accepted
+P4B3364CF,NGOE69FE09D,C002,x,xyz,Education,10.0,Tamil Nadu,True,Pending
+P1BBC699B,NGO0FC36599,C002,W,jgg.k,Education,10.0,Tamil Nadu,True,Pending
+P55D6140C,NGO0FC36599,C004,W,jgg.k,Education,10.0,Tamil Nadu,True,Accepted
+P38598B92,NGOD24048C0,C002,ugig,jjjgdfgjc,Technology,100.0,hjgjh,True,Pending
+PC4D6566A,NGO4543B975,C002,ghbsd,nhbcsa,Education,200.0,dsvsd,True,Pending
+PC6369572,NGO4543B975,C005,ghbsd,nhbcsa,Education,200.0,dsvsd,True,Pending
